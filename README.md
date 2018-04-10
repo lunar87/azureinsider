@@ -1,0 +1,2 @@
+# azureinsider
+All things azure
